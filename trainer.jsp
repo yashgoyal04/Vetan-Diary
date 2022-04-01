@@ -8,8 +8,6 @@
 <%@page import="java.sql.Connection"%>
 <%@ page import = "java.sql.*"%>
 
-
-
 <!DOCTYPE html>
 <html lang="en-US">
 
@@ -27,8 +25,6 @@
 </style>
 
 <body> 
-
-
     <!-- Main content -->
     
     <main id="main">
