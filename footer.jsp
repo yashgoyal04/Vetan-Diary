@@ -4,7 +4,7 @@
       <div class="container">
         <div class="row">
         <div class="col-lg-12 col-md-12 footer-contact">
-            <h3 style="color:#fff">Codevidhya</h3>
+            <h3 style="color:#fff">Vetan Diary</h3>
           </div>    
           <hr>
          <div class="col-md-4 col-sm-4 col-xs-12">
